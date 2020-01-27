@@ -87,5 +87,5 @@ let () = Lwt_main.run (main ())
 
 Copyright (c) 2020 António Nuno Monteiro
 
-piaf is distributed under the 3-Clause BSD License, see [LICENSE](./LICENSE).
+Archi is distributed under the 3-Clause BSD License, see [LICENSE](./LICENSE).
 
